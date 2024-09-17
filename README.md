@@ -1,2 +1,2 @@
 # DevOps
-Repository voor lesen DevOps
+Repository voor lessen DevOps
